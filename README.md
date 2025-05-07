@@ -8,6 +8,7 @@
 ## Themes/Color
 
 * [Poimandres](https://marketplace.visualstudio.com/items?itemName=pmndrs.pmndrs)
+  * Poimandres is a minimal, frameless dark-theme
 
 ## Extensions
 
