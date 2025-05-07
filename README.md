@@ -30,3 +30,27 @@
         * Spell check markdown, comments and variable names.
     * [Pretty TypeScript Errors](https://marketplace.visualstudio.com/items?itemName=yoavbls.pretty-ts-errors)
         * Makes TS errors more human readable.
+* Useful Tools 
+    * [Paste JSON as Code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype)
+        * Auto generate TypeScript (and other languages) types from JSON data.
+    * [Code Snap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap)
+        * Take pictures of code with your VS Code Theme / Font settings.
+* Useful Tools
+  * [Paste JSON as Code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype)
+    * Auto generate TypeScript (and other languages) types from JSON data.
+  * [Code Snap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap)
+    * Take pictures of code with your VS Code Theme / Font settings.
+* Languages and Libraries
+  * [XML Tools](https://marketplace.visualstudio.com/items?itemName=DotJoshJohnson.xml)
+    * XML Formatting, XQuery, and XPath Tools for Visual Studio Code.
+  * [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
+    * Intelligent Tailwind CSS tooling for VS Code.
+  * React
+    * [ES7+ React/Redux/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
+      * Extensions for React, React-Native and Redux in JS/TS with ES7+ syntax. Customizable. Built-in integration with prettier.
+    * [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+      *Automatically rename paired HTML/XML tag
+  * [Markdown Mermaid Preview](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-mermaid)
+    * View Mermaid diagrams when previewing Markdown.
+
+
