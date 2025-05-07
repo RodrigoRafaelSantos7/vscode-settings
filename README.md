@@ -33,11 +33,6 @@
         * Auto generate TypeScript (and other languages) types from JSON data.
     * [Code Snap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap)
         * Take pictures of code with your VS Code Theme / Font settings.
-* Useful Tools
-  * [Paste JSON as Code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype)
-    * Auto generate TypeScript (and other languages) types from JSON data.
-  * [Code Snap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap)
-    * Take pictures of code with your VS Code Theme / Font settings.
 * Languages and Libraries
   * [XML Tools](https://marketplace.visualstudio.com/items?itemName=DotJoshJohnson.xml)
     * XML Formatting, XQuery, and XPath Tools for Visual Studio Code.
@@ -52,31 +47,22 @@
 ### Extension package names for easy install
 
 ```
-nur.just-black
-fosshaas.fontsize-shortcuts
-vscode-icons-team.vscode-icons
+pmndrs.pmndrs
+cdonohue.quill-icons
+antfu.icons-carbon
 dbaeumer.vscode-eslint
 esbenp.prettier-vscode
 quicktype.quicktype
 vunguyentuan.vscode-postcss
 streetsidesoftware.code-spell-checker
-yoavbls.pretty-ts-errors
-quicktype.quicktype
+YoavBls.pretty-ts-errors
 adpyke.codesnap
-rangav.vscode-thunder-client
 DotJoshJohnson.xml
 bradlc.vscode-tailwindcss
 dsznajder.es7-react-js-snippets
-infarkt.css-to-jss
-paulmolluzzo.convert-css-in-js
-styled-components.vscode-styled-components
-Vue.volar
-svelte.svelte-vscode
-Prisma.prisma
-otovo-oss.htmx-tags
 bierner.markdown-mermaid
 ```
 
 # Settings
 
-[![settings.json](images/image.png)]()
+[![settings.json](images/image.png)](settings.json)
