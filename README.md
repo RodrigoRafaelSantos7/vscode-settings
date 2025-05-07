@@ -12,8 +12,6 @@
 ## Extensions
 
 * Theme / Editor Experience
-    * [FontSize ShortCuts](https://marketplace.visualstudio.com/items?itemName=fosshaas.fontsize-shortcuts)
-        * Change the font size with keyboard shortcuts.
     * [Quill Icons](https://marketplace.visualstudio.com/items?itemName=cdonohue.quill-icons)
         * A light/dark low contrast file icon set for many different file types
     * [Carbon Product Icons](https://marketplace.visualstudio.com/items?itemName=antfu.icons-carbon)
@@ -48,9 +46,37 @@
   * React
     * [ES7+ React/Redux/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
       * Extensions for React, React-Native and Redux in JS/TS with ES7+ syntax. Customizable. Built-in integration with prettier.
-    * [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
-      *Automatically rename paired HTML/XML tag
   * [Markdown Mermaid Preview](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-mermaid)
     * View Mermaid diagrams when previewing Markdown.
 
+### Extension package names for easy install
 
+```
+nur.just-black
+fosshaas.fontsize-shortcuts
+vscode-icons-team.vscode-icons
+dbaeumer.vscode-eslint
+esbenp.prettier-vscode
+quicktype.quicktype
+vunguyentuan.vscode-postcss
+streetsidesoftware.code-spell-checker
+yoavbls.pretty-ts-errors
+quicktype.quicktype
+adpyke.codesnap
+rangav.vscode-thunder-client
+DotJoshJohnson.xml
+bradlc.vscode-tailwindcss
+dsznajder.es7-react-js-snippets
+infarkt.css-to-jss
+paulmolluzzo.convert-css-in-js
+styled-components.vscode-styled-components
+Vue.volar
+svelte.svelte-vscode
+Prisma.prisma
+otovo-oss.htmx-tags
+bierner.markdown-mermaid
+```
+
+# Settings
+
+[![settings.json](images/image.png)]()
